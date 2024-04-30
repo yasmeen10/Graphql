@@ -1,0 +1,71 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 101,
+      "title": "Introduction to Programming",
+      "body": "Programming is the process of creating instructions that tell a computer how to perform a task."
+    },
+    {
+      "userId": 2,
+      "id": 102,
+      "title": "Data Structures and Algorithms",
+      "body": "Data structures are ways to store and organize data in a computer, while algorithms are step-by-step procedures for solving problems."
+    },
+    {
+      "userId": 3,
+      "id": 103,
+      "title": "Machine Learning Basics",
+      "body": "Machine learning is a subset of artificial intelligence that focuses on enabling computers to learn from data and make decisions."
+    },
+    {
+      "userId": 4,
+      "id": 104,
+      "title": "Web Development Fundamentals",
+      "body": "Web development involves building websites and web applications using technologies like HTML, CSS, and JavaScript."
+    },
+    {
+      "userId": 5,
+      "id": 105,
+      "title": "Introduction to Cybersecurity",
+      "body": "Cybersecurity is the practice of protecting computer systems, networks, and data from security breaches and unauthorized access."
+    }
+  ],
+  "comments": [
+    {
+      "postId": 101,
+      "id": 1,
+      "name": "Great overview!",
+      "email": "john@example.com",
+      "body": "This post provides a clear introduction to programming. Well-written and easy to understand."
+    },
+    {
+      "postId": 101,
+      "id": 2,
+      "name": "Looking forward to more",
+      "email": "sarah@example.com",
+      "body": "Excited to learn more about programming. Can't wait for the next post!"
+    },
+    {
+      "postId": 102,
+      "id": 3,
+      "name": "Informative content",
+      "email": "chris@example.com",
+      "body": "Data structures and algorithms are fundamental concepts in computer science. Thanks for explaining them."
+    },
+    {
+      "postId": 103,
+      "id": 4,
+      "name": "Fascinating topic",
+      "email": "emily@example.com",
+      "body": "Machine learning opens up a world of possibilities. It's amazing what computers can learn to do."
+    },
+    {
+      "postId": 104,
+      "id": 5,
+      "name": "Helpful guide",
+      "email": "alex@example.com",
+      "body": "Aspiring web developers will find this post very helpful in getting started with web development."
+    }
+  ]
+}
